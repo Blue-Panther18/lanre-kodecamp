@@ -28,7 +28,7 @@ body {
     width: 487px;
     height: 620px;
     border-style: hidden;
-    background-image: url(/img/adj.png);
+    background: url(adj.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
