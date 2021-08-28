@@ -1,0 +1,204 @@
+/* ######### Defualt ########## */
+
+nav, header, footer {
+    margin: 0;
+    line-height: 1;
+}
+
+body {
+    margin: 0 auto;
+    background: #E5E5E5;
+}
+
+#content {
+    margin: 0 auto;
+    width: 25%;
+    padding-bottom: 50%;
+    
+    
+   
+
+
+}
+
+/* ######## side title ######### */
+
+.side-title {
+    width: 100%;
+    width: 487px;
+    height: 620px;
+    border-style: hidden;
+    background-image: url(/img/adj.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left: 110px;
+    top: 20px;
+    background-color: rgba(0, 0, 0, 0.58);
+    
+    
+}
+
+
+.header-container {
+   
+   
+    width: 100%;
+    
+    
+}
+
+.kcamp {
+    position: absolute;
+    width: 153px;
+    height: 40px;
+    left: 28px;
+    top: -10px;
+    color: #fff;
+    font-weight: bolder;
+    font-size: xx-large;
+    line-height: 30px;
+}
+
+.join {
+    position: absolute;
+    width: 242px;
+    height: 30px;
+    left: 28px;
+    top: 401px;
+    color: #fff;
+    line-height: 30px;
+}
+
+p {
+    position: absolute;
+    width: 426px;
+    height: 27px;
+    left: 30px;
+    top: 431px;
+    color: #fff;
+    line-height: 30px;
+}
+
+/* ######### Sign up ######### */
+
+.container {
+    position: absolute;
+    width: 582px;
+    height: 561px;
+    right: 110px;
+    top: 20px;
+    border: 2px hidden;
+    padding: 30px;
+    background: #fff;
+}
+
+img {
+  width: 59px;
+  height: 63px;
+  position: absolute;
+  right: 5%;
+  top: 20px;
+
+}
+
+.sign-up {
+    width: 108px;
+    height: 40px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: #086DB8;
+    padding-top: 35px;
+}
+
+input {
+    width: 250px;
+}
+
+select {
+    width: 260px;
+    
+    
+}
+
+option {
+    background: #C4C4C4;
+    border: 1px solid #000000;
+    /* box-sizing: border-box;
+    transform: rotate(179.68deg); */
+}
+
+label {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    
+}
+
+.fname {
+    /* float: left; */
+}
+
+.lname {
+    padding-right: 0;
+    margin-right: 0;
+    float: right;
+    position: absolute;
+    right: 10%;
+    top: 155px;
+}
+
+.email {
+    margin-top: 300px;
+}
+
+.gender {
+    float: right;
+    position: absolute;
+    right: 10%;
+    top: 220px;
+}
+
+.password {
+    margin: 0;
+}
+
+.confirm-password{
+    float: right;
+    position: absolute;
+    right: 10%;
+    top: 280px;
+}
+
+.elevel {
+    margin: 0;  
+}
+
+.xlevel {
+    float: right;
+    position: absolute;
+    right: 10%;
+    top: 345px;
+}
+
+.btn {
+    position: absolute;
+    width: 222px;
+    height: 40px;
+    right: 8%;
+    top: 500px;
+    background: #086DBB;
+    color: #fff;
+    border-radius: 10px 0px;
+}
+
+.self {
+   
+
+}
+
+.textarea {
+  width: 550px;
+}
